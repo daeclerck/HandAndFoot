@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hand And Foot!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="on_board">On Board</string>
+    <string name="SmallHandText">4 - 9</string>
+    <string name="SmallBoardText">4 - 9</string>
+    <string name="ValueBoardText">2, Ace</string>
+    <string name="HighBoardText">10 - K</string>
+    <string name="JokersBoardText">Jokers</string>
+    <string name="RedBooks">Red Books</string>
+    <string name="BlackBooks">Black Books</string>
+    <string name="in_hand_and_foot">In Hand and Foot</string>
+    <string name="HighHandText">10 - K</string>
+    <string name="ValueHandText">2, Ace</string>
+    <string name="JokerHandText">Jokers</string>
+    <string name="RedThrees">Red 3</string>
+    <string name="BlackThrees">Black 3</string>
+    <string name="Round1">Round 1</string>
+    <string name="Round2">Round 2</string>
+    <string name="Round3">Round 3</string>
+    <string name="FinalScore">Final Score</string>
+</resources>
